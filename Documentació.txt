@@ -7,3 +7,8 @@
 7 - Afeguim la imatje amb el css amb les dimensions.
 8 - Continuem mab un aside per millorar l'estructura semantica, també dins de la taule afegir un caption per a que tot estigui més entenedor.
 9- També per separar les seccions fiquem un hr
+10 - A partir d'ara començem el segon section molt semblat al primer.
+11 - Cambiem el p stront per un h2 per millorar lentendiment.
+12 - La taula la fiqume en un aside amb el seu h3 y els caption.
+13 - Com la taula estava mal organitzada afeguit un tbody, al segon td afeguir text per saber que ve despres.
+14 - Afeuim aria al enllaç del universos pararels per sabe a on el porta.
