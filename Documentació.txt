@@ -3,3 +3,5 @@
 3 - Com no hi ha cap main seria la segona cosa per millorar el codi, també amb el footer amb l'aria-label.
 4 - Per millorar l'estructura falta un header. 
 5 - També afegir els sections, ja que la informació està mal ordenada amb divs.
+6 - Ara millorar la primera secció cambiarem el p strong per un titol de secció.
+7 - Afeguim la imatje amb el css amb les dimensions.

@@ -1,3 +1,9 @@
 body{
     background-color: rgb(240, 153, 13);
 }
+
+.imagen-tres-cossos {
+    width: 400px;  /* Ajusta la imagen al 100% del contenedor padre */
+
+    height: 380px;  /* La altura se ajusta automáticamente para mantener la proporción */
+}
