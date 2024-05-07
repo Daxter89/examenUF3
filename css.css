@@ -16,6 +16,18 @@ header {
     margin-bottom: 20px; /
 }
 
+/* Estils per als títols de secció */
+h1, h2 {
+    color: #333;
+}
+
+/* Marges per a les seccions per a una millor separació del contingut */
+section {
+    padding: 20px;
+    margin: 20px;
+}
+
+
 .imagen-tres-cossos {
     width: 400px;  /* Ajusta la imagen al 100% del contenedor padre */
 

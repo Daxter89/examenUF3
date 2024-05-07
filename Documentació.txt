@@ -17,3 +17,4 @@
 CSS:
 1 - Per millorar la visivilitat fiquem una font entenedora i un fons clar, que el contrast de les lletres y les paraules és veguin. 
 2 - Fiqume estil a la capcelera principal amb un contrast alt per a que es vegui bé.
+3 - Fiquem color al h1 i h2 per més diferenciació i separem les seccions per més cualitat
