@@ -5,3 +5,5 @@
 5 - També afegir els sections, ja que la informació està mal ordenada amb divs.
 6 - Ara millorar la primera secció cambiarem el p strong per un titol de secció.
 7 - Afeguim la imatje amb el css amb les dimensions.
+8 - Continuem mab un aside per millorar l'estructura semantica, també dins de la taule afegir un caption per a que tot estigui més entenedor.
+9- També per separar les seccions fiquem un hr
