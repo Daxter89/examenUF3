@@ -1,0 +1,1 @@
+1 -  Primer de tot separar el CSS del html per més organització y crear larxiu css.
