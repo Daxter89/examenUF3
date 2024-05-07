@@ -1,1 +1,3 @@
 1 -  Primer de tot separar el CSS del html per més organització y crear larxiu css.
+2 - Ara per míllorar accessibilitat iy el Ceo podem afeguir un tittle.
+3 - Com no hi ha cap main sería la segona cosa per millorar el codi, també amb el footer amb el aria-label.
