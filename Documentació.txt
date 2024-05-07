@@ -11,10 +11,11 @@
 11 - Cambiem el p stront per un h2 per millorar lentendiment.
 12 - La taula la fiqume en un aside amb el seu h3 y els caption.
 13 - Com la taula estava mal organitzada afeguit un tbody, al segon td afeguir text per saber que ve despres.
-14 - Afeuim aria al enllaç del universos pararels per sabe a on el porta.
+14 - Afegim aria a l'enllaç dels universos pararels per sabe a on el porta.
 
 
 CSS:
-1 - Per millorar la visivilitat fiquem una font entenedora i un fons clar, que el contrast de les lletres y les paraules és veguin. 
-2 - Fiqume estil a la capcelera principal amb un contrast alt per a que es vegui bé.
-3 - Fiquem color al h1 i h2 per més diferenciació i separem les seccions per més cualitat
+1 - Per millorar la visibilitat fiquem una font entenedora i un fons clar, que el contrast de les lletres i les paraules es vegin. 
+2 - Fiquem estil a la capçalera principal amb un contrast alt per a que es vegui bé.
+3 - Fiquem color al h1 i h2 per més diferenciació i separem les seccions per mes qualitat.
+4 - Com encara no estan separats del tots els aside els destaquem.
