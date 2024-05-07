@@ -12,3 +12,7 @@
 12 - La taula la fiqume en un aside amb el seu h3 y els caption.
 13 - Com la taula estava mal organitzada afeguit un tbody, al segon td afeguir text per saber que ve despres.
 14 - Afeuim aria al enllaç del universos pararels per sabe a on el porta.
+
+
+CSS:
+1 - Per millorar la visivilitat fiquem una font entenedora i un fons clar, que el contrast de les lletres y les paraules és veguin. 
